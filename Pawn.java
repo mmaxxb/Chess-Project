@@ -1,4 +1,4 @@
-//Written by Evam Saksa009 and Max Bostan bosta022
+
 package CSCI1933P2;
 import java.util.Scanner;
 public class Pawn extends Piece {
