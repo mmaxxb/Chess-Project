@@ -1,4 +1,3 @@
-//Written by Evan Saksa009 and Max Bostan bosta022
 package CSCI1933P2;
 
 public class Rook extends Piece {
